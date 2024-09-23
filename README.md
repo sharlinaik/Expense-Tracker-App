@@ -31,8 +31,8 @@ Make sure you have Node.js and npm installed on your machine.
 
 <h1>Installation</h1>
 <br>
-Clone the Project:
+### Clone the project
 ``` bash
-git clone https://github.com/sharlinaik/Expense-Tracker-App.git
-cd Expense-Tracker-App
+git clone https://github.com/deepak-terse/nearme-app.git
+cd nearme-app
 ```
