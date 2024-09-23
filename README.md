@@ -22,6 +22,7 @@ A simple Expense Tracker application built with React that allows users to add, 
 <h1>Technologies Used</h1>
 <br>
   - React: JavaScript library for building user interfaces.
+  <br>
   - CSS: For styling the application.
 <br>
 <h1>Prerequisites</h1>
@@ -29,3 +30,5 @@ Make sure you have Node.js and npm installed on your machine.
 <br>
 
 <h1>Installation</h1>
+<br>
+1. Clone the repository:
