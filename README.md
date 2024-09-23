@@ -29,11 +29,4 @@ A simple Expense Tracker application built with React that allows users to add, 
 Make sure you have Node.js and npm installed on your machine.
 <br>
 
-<h1>Installation</h1>
-<br>
-###  Clone the project
-<br>
-``` bash
-git clone https://github.com/deepak-terse/nearme-app.git
-cd nearme-app
-```
+
