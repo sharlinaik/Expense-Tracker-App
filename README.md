@@ -31,7 +31,8 @@ Make sure you have Node.js and npm installed on your machine.
 
 <h1>Installation</h1>
 <br>
-### Clone the project
+###  Clone the project
+<br>
 ``` bash
 git clone https://github.com/deepak-terse/nearme-app.git
 cd nearme-app
