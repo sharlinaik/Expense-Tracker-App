@@ -10,6 +10,7 @@ A simple Expense Tracker application built with React that allows users to add, 
 
 <br>
 <h1>Screenshots</h1>
+<br>
 <div align="center">
     <img src="Screen1.png" width="400px"</img> 
 </div>
@@ -17,3 +18,14 @@ A simple Expense Tracker application built with React that allows users to add, 
 <div align="center">
     <img src="Screen2.png" width="400px"</img> 
 </div>
+<br>
+<h1>Technologies Used</h1>
+<br>
+  - React: JavaScript library for building user interfaces.
+  - CSS: For styling the application.
+<br>
+<h1>Prerequisites</h1>
+Make sure you have Node.js and npm installed on your machine.
+<br>
+
+<h1>Installation</h1>
