@@ -7,3 +7,13 @@ A simple Expense Tracker application built with React that allows users to add, 
   - Add new transactions with descriptions and amounts.<br>
   - View a list of all transactions.<br>
   - Calculate and display the total balance.
+
+<br>
+<h1>Screenshots</h1>
+<div align="center">
+    <img src="screen1.png" width="400px"</img> 
+</div>
+<br>
+<div align="center">
+    <img src="screen2.png" width="400px"</img> 
+</div>
