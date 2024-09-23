@@ -4,6 +4,6 @@ A simple Expense Tracker application built with React that allows users to add, 
 <br>
 <h1>Features</h1>
 <br>
-  - Add new transactions with descriptions and amounts.
-  - View a list of all transactions.
+  - Add new transactions with descriptions and amounts.<br>
+  - View a list of all transactions.<br>
   - Calculate and display the total balance.
