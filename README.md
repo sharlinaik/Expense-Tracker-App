@@ -11,9 +11,9 @@ A simple Expense Tracker application built with React that allows users to add, 
 <br>
 <h1>Screenshots</h1>
 <div align="center">
-    <img src="screen1.png" width="400px"</img> 
+    <img src="Screen1.png" width="400px"</img> 
 </div>
 <br>
 <div align="center">
-    <img src="screen2.png" width="400px"</img> 
+    <img src="Screen2.png" width="400px"</img> 
 </div>
