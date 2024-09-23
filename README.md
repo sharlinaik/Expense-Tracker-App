@@ -31,4 +31,8 @@ Make sure you have Node.js and npm installed on your machine.
 
 <h1>Installation</h1>
 <br>
-1. Clone the repository:
+Clone the Project:
+``` bash
+git clone https://github.com/sharlinaik/Expense-Tracker-App.git
+cd Expense-Tracker-App
+```
